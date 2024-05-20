@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1716200771 source:d:\загрузо44ки\final\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<queue>
+	<algorithm>
+	<map>
+	<regex>
+
